@@ -1,0 +1,31 @@
+
+
+.card-layout{ width: 33.33%; padding: 15px; float: left; }
+.card{ width: 100%; float: left; background-color:#ffffff; padding: 20px;  margin: 15px 0; }
+.card-no {
+    border-radius: 50px;
+    border: solid 2px #888888;
+    width: 25px;
+    height: 25px;
+    float: left;
+    text-align: center;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.card-author {
+    float: left;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 500;
+}
+.card-title{ float: left; width: 100%; }
+.dis{ width: 100%; float: left; }
+.card-read, .card-tag {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+}
+.card img{ width: 100%; margin: 0 0 30px; }
